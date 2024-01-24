@@ -30,6 +30,13 @@ How we can perform Data Annotation for the yolo versions, you will get also unde
 ### All are outputs and Logs
 All are outputs and Logs are saved in "runs/" directories,
 
+### Articals and Blogs
+<a href="https://www.kaggle.com/datasets/chenjiexu/yolov8">Blog on kaggle</a>
+<a href="https://github.com/ultralytics/ultralytics">Github repository</a> 
+<a href="https://ultralytics.com/assets/coco128.zip">COCO128.yaml datast download</a> 
+<a href="https://docs.ultralytics.com/">Ultralytics Documentation</a> 
+
+
 ### Install dependencies
 ```bash
 pip install -r requirements.txt
