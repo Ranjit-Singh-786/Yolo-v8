@@ -21,6 +21,9 @@ in this repository you will be only see fine-tuning process of Yolo V8, But
 if you want to also understand the Yolo V5 fine-tuning, <br>
 click on <a href="https://github.com/Ranjit-Singh-786/object_detection_using_yolov5">Yolo V5 fine-tuning process</a><br>
 
+complete project using yolo v8, on custome dataset, checkout this repoistory, click on given below link :
+<a href="https://github.com/Ranjit-Singh-786/fracture_detection_yoloV8">Project using Yolo V8</a>
+
 ### Data Annotation
 How we can perform Data Annotation for the yolo versions, you will get also understanding about too, in this repository<br>
 #### Data Annotation tool
